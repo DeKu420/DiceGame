@@ -1,0 +1,35 @@
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  font-family: "Romanesco";
+  font-size: 10rem;
+  text-shadow: 5px 0 #232931;
+  color: #4ecca3;
+}
+
+p {
+  text-align: center;
+  font-size: 2rem;
+  display: inline;
+  padding: 1rem 6rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  padding: 2rem;
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
